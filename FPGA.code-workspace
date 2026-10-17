@@ -28,7 +28,7 @@
         "type": "process",
         "command": "python3",
         "windows": {
-          "command": "python"
+          "command": "py"
         },
         "args": [
           "tools/fpga_lab.py",
@@ -53,7 +53,7 @@
         "type": "process",
         "command": "python3",
         "windows": {
-          "command": "python"
+          "command": "py"
         },
         "args": [
           "tools/fpga_lab.py",
@@ -78,7 +78,7 @@
         "type": "process",
         "command": "python3",
         "windows": {
-          "command": "python"
+          "command": "py"
         },
         "args": [
           "tools/fpga_lab.py",

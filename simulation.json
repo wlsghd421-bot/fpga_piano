@@ -1,5 +1,11 @@
 {
-  "sources": ["src/design.v"],
-  "testbench": "sim/tb_design.v",
-  "simulation_top": "tb_design"
+    "sources": [
+        "src/input_stable.v",
+        "src/note_select.v",
+        "src/piano.v",
+        "src/piano_top.v",
+        "src/square_tone.v"
+    ],
+    "testbench": "sim/tb_piano.sv",
+    "simulation_top": "tb"
 }
