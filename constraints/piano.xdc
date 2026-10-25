@@ -1,6 +1,6 @@
 # Combo II-DLD-Base (Spartan-7 xc7s75fgga484-1), 핀: Xilinx_S7_Pin_Map.xlsx
 set_property PACKAGE_PIN B6  [get_ports clk_50mhz]
-set_property PACKAGE_PIN K2  [get_ports rst_p]
+set_property PACKAGE_PIN K2 [get_ports rst_p]
 set_property PACKAGE_PIN K4  [get_ports {key[7]}]
 set_property PACKAGE_PIN N8  [get_ports {key[6]}]
 set_property PACKAGE_PIN N4  [get_ports {key[5]}]
